@@ -1,0 +1,22 @@
+{
+  "name": "sappho-fragments",
+  "version": "1.0.0",
+  "description": "An npm package inspired by Sappho — generates lyrical fragments about desire, beauty, and the ache of longing from ancient Lesbos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "poetry",
+    "sappho",
+    "ancient-greek",
+    "fragments",
+    "literature"
+  ],
+  "author": "papersaurus <farmrecipes@ast.engineer>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/farmrecipes67/sappho-fragments"
+  }
+}
